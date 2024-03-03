@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Gaurav",
+      "age": 23,
+      "email": "gaurav@gmail.com",
+      "id": "7dcd"
+    },
+    {
+      "name": "Darshan",
+      "age": 23,
+      "email": "darshan@gmail.com",
+      "id": "00c4"
+    },
+    {
+      "name": "Krushna",
+      "age": 23,
+      "email": "krushna@gmail.com",
+      "id": "6d71"
+    },
+    {
+      "id": "fb82",
+      "name": "Vaibhav",
+      "age": 20,
+      "email": "vaibhav@gmail.com"
+    }
+  ]
+}
